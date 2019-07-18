@@ -1,0 +1,261 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/prathamdesai/Pratham/H2LMF/Strategies/" . "ML/")
+ ("/Users/prathamdesai/EB/Blue-Vision/backend-python/" . "static/")
+ ("/Users/prathamdesai/Pratham/KNet/wakesleep/" . "src/")
+ ("/Users/prathamdesai/Pratham/Test/" . "static/")
+ ("/Users/prathamdesai/Pratham/H2LMF/Data/" . "__pycache__/")
+ ("/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/UBA/" . "Data/")
+ ("/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/" . "UBA/")
+ ("/Users/prathamdesai/EB/Blue-Vision/ml-python/" . "Models/")
+ ("/Users/prathamdesai/EB/Blue-Vision/Models/" . "UBA/")
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/Week1/" . "Lectures/")
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/" . "Week2/")
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/" . "SequenceModels/")
+ ("/Users/prathamdesai/Pratham/foobar/" . "L2/")
+ ("/Users/prathamdesai/Pratham/H2LMF/" . "Crypto/")
+ ("/Users/prathamdesai/EB/Blue-Vision/" . "ml-python/")
+ ("/Users/prathamdesai/Pratham/MOOC/" . "Coursera/")
+ ("/Users/prathamdesai/Pratham/CML/src/" . "CML/")
+ ("/Users/prathamdesai/Pratham/CML/" . "src/")
+ ("/Users/prathamdesai/EB/uba/ml-app/itp-app/com.ibm.uba.itp/" . "app/")
+ ("/Users/prathamdesai/EB/uba/ml-app/itp-app/" . "com.ibm.uba.itp/")
+ ("/Users/prathamdesai/EB/uba/ml-app/" . "itp-app/")
+ ("/Users/prathamdesai/EB/uba/" . "ml-app/")
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week1/" . "Code/")
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week 1/" . "Code/")
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/" . "Week3/")
+ ("/Users/prathamdesai/Pratham/Coursera/" . "SequenceModels/")
+ ("/Users/prathamdesai/Pratham/" . "Books/")
+ ("/Users/prathamdesai/Pratham/KNet/" . "CCN/")
+ ("/Users/prathamdesai/.emacs.d/" . "elpa/")
+ ("/Users/" . "prathamdesai/")
+ ("/Users/prathamdesai/EB/" . "Blue-Vision/")
+ ("/Users/prathamdesai/" . "EB/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/prathamdesai/Pratham/H2LMF/"
+ "/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/UBA/"
+ "/Users/prathamdesai/Pratham/H2LMF/Crypto/"
+ "/Users/prathamdesai/Pratham/H2LMF/Utils/"
+ "/Users/prathamdesai/EB/Blue-Vision/backend-flask/"
+ "/Users/prathamdesai/Pratham/H2LMF/Strategies/ML/"
+ "/Users/prathamdesai/Pratham/Books/"
+ "/Users/prathamdesai/Pratham/KNet/CCN/"
+ "/Users/prathamdesai/Pratham/KNet/"
+ "/Users/prathamdesai/EB/Blue-Vision/backend-python/"
+ "/Users/prathamdesai/Pratham/H2LMF/Misc/"
+ "/Users/prathamdesai/.emacs.d/"
+ "/Users/prathamdesai/Pratham/"
+ "/Users/prathamdesai/Pratham/Sandbox/"
+ "/Users/prathamdesai/Pratham/KNet/wakesleep/src/"
+ "/Users/prathamdesai/EB/jdbc-driver/"
+ "/Users/prathamdesai/EB/EventCorrelation/"
+ "/Users/prathamdesai/Pratham/H2LMF/Strategies/NotML/"
+ "/Users/prathamdesai/Pratham/H2LMF/Resources/"
+ "/Users/prathamdesai/Pratham/H2LMF/Strategies/"
+ "/Users/prathamdesai/Pratham/H2LMF/Data/"
+ "/Users/prathamdesai/EB/notes/"
+ "/Users/prathamdesai/EB/Blue-Vision/backend-python/templates/"
+ "/Users/prathamdesai/Pratham/H2LMF/Agents/"
+ "/Users/prathamdesai/Pratham/Test/"
+ "/Users/prathamdesai/Pratham/MasterU/"
+ "/Users/prathamdesai/Pratham/Test/static/"
+ "/Users/prathamdesai/Pratham/Test/templates/"
+ "/Users/prathamdesai/EB/"
+ "/Users/prathamdesai/Pratham/H2LMF/Data/__pycache__/"
+ "/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/UBA/Data/"
+ "/Users/prathamdesai/"
+ "/Users/prathamdesai/Pratham/foobar/L2/"
+ "/Users/prathamdesai/EB/Blue-Vision/ml-python/"
+ "/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/"
+ "/Users/prathamdesai/EB/Blue-Vision/Models/UBA/"
+ "/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/Week2/"
+ "/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/Week1/"
+ "/Users/prathamdesai/EB/Blue-Vision/Models/"
+ "/Users/prathamdesai/Pratham/foobar/L3/"
+ "/Users/prathamdesai/Pratham/foobar/L1/"
+ "/Users/prathamdesai/Pratham/foobar/"
+ "/Users/prathamdesai/EB/Blue-Vision/"
+ "/Users/prathamdesai/EB/jdbc-driver/src/test/resources/com/ibm/si/jaql/"
+ "/Users/prathamdesai/Pratham/MOOC/ml4finance/"
+ "/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week3/"
+ "/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week2/"
+ "/Users/prathamdesai/Pratham/si/"
+ "/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week1/"
+ "/Users/prathamdesai/EB/uba/ml-app/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "test.py"
+ "main.py"
+ "markov.py"
+ "rsi_agent.py"
+ "data.py"
+ "indicators.py"
+ "queryapi.py"
+ "creds.txt"
+ "books.org"
+ "utils.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/UBA/" (23854 11096 257753 259000) "cured_data.csv" "Data/" "sentencegen.py" "PCA.py" "test.py" "__pycache__/" "gen_fake_data.py" "notes.org" "markov.py" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Crypto/" (23854 7974 923035 831000) "data.py" "data.py~" "rsi_agent.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Utils/" (23854 7873 820529 740000) "indicators.py~" "__pycache__/" "indicators.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/" (23853 14653 548919 498000) "today.org~" "MOOC/" "WheresWaldo/" "MasterU/" "si/" "Sandbox/" "SS/" "Books/" "TowardAI.pdf" "foobar/" "KNet/" "today.org" "H2LMF/" "Test/" ".DS_Store" "ArtCraftProblemSolving.pdf" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Strategies/ML/" (23853 15512 694923 411000) "creds.txt" "creds.txt~" "markov.py~" "markov.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/" (23852 58941 617298 836000) ".gitignore~" "Data/" "Sentiment/" "main.py" ".git/" ".gitignore" "Historical/" "README.md" "__pycache__/" "Utils/" "Agents/" "Resources/" "Strategies/" ".DS_Store" "main.py~" "Crypto/" "Misc/" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Books/" (23851 8890 621348 256000) ".git/" "#books.org#" "books.org" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/KNet/CCN/" (23852 56220 506472 13000) "cclayer.pyc" "utils.pyc" "utils.py~" "ccnet.pyc" "main.py" "utils.py" "__pycache__/" "__init__.py" "todo.org" ".DS_Store" "main.py~" "cclayer.py" "ccnet.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/KNet/" (23852 55747 819131 906000) "CCN/" "main.py" ".git/" ".gitattributes" ".gitignore" "README.md" "wakesleep/" "papers/" ".DS_Store" "main.py~" "../" "./")
+
+ ("/Users/prathamdesai/" (23852 42631 773020 847000) "HODObjs/" "shabba.py~" ".conda/" ".bash_history" ".gitconfig" ".python_history" "Downloads/" ".bash_profile" ".m2/" "Documents/" ".%440ACBB8.png" ".keras/" ".Trash/" "Applications/" "Movies/" ".ssh/" ".cisco/" ".idlerc/" ".bash_profile-anaconda3.bak" "Public/" ".bash_sessions/" ".emacs.d/" "Pratham/" ".oracle_jre_usage/" ".matplotlib/" "Library/" "Desktop/" ".ipython/" "HODSData/" "Pictures/" "EB/" ".HOD.properties" ".CFUserTextEncoding" ".DS_Store" "shabba.py" ".anyconnect" "Music/" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/backend-flask/" (23852 53706 303576 766000) "test_flask_setup.py" "queryapi.py" "templates/" "data_processing.py" "data_processing_API.py" "__pycache__/" "Sariel.db" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/UBA/Data/" (23852 40467 563633 778000) "process.py~" "process.py" "last7days.csv" "kanye_verses.txt" "discrete_distribution_data.py" "__pycache__/" "gen_fake_data.py" ".DS_Store" "gen_fake_data.py~" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/ml-python/Models/" (23852 40467 739196 133000) "metricone.py" "discreteDistrib.py" "UBA/" ".DS_Store" "metricone.py~" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/ml-python/" (23852 40467 746132 738000) "main.py" "stats.py" "README.md" "__pycache__/" "Models/" ".DS_Store" "AQL Queries.txt" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/backend-python/static/" (23837 64714 928297 305000) "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/" (23852 40467 405042 953000) ".git/" "backend-python/" ".gitignore" ".DS_Store" "client-react/" "backend-flask/" "ml-python/" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/backend-python/" (23852 40467 403421 846000) "utils.py~" "user_data.csv" "static/" "utils.py" "queryapi.py~" "../" "./")
+
+ ("/Users/prathamdesai/.emacs.d/" (23849 12410 505887 338000) "elpa/" "request/" ".emacs" "init.el" "auto-save-list/" "ido.last~" ".DS_Store" "init.el~" "ido.last" "../" "./")
+
+ ("/Users/prathamdesai/EB/jdbc-driver/src/test/resources/com/ibm/si/jaql/" (23844 44262 835652 546000) "rest/" "jdbc4/" "api/" "DatabaseMetaDataTest.properties" "jdbc/" "BasicAQLQueryCreationTest.properties" "DriverTest.properties" "../" "./")
+
+ ("/Users/prathamdesai/EB/jdbc-driver/" (23844 46368 98605 848000) "src/" ".travis.yml" ".git/" "lib/" ".gitignore" "README.md" "pom.xml" "target/" "LICENSE" "jaql-output.log" "log4j2.xml" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/KNet/wakesleep/src/" (23846 19671 479750 10000) "Image.png" "network2.py" "main.py" "Stage 1/" "Stage 6/" "network.py" "__pycache__/" "Stage 5/" "Stage 2/" "Stage 3/" "Stage 4/" "mnist_loader.py" ".#main_test.py" "main.py~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Sandbox/" (23848 37762 637173 865000) "readwrite.py~" "mnist_nn.py" "readwrite.py" "mnist_nn.py~" "Frontend/" "../" "./")
+
+ ("/Users/prathamdesai/EB/" (23844 44260 672806 109000) "jdbc-driver/" "Requirements Extreme Blue Correlation App v1.xlsx" "Blue-Vision/" "notes/" "BusinessDocs/" "EventCorrelation/" "uba/" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/KNet/wakesleep/" (23843 55380 803498 963000) "src/" "data/" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/prathamdesai/EB/EventCorrelation/" (23843 13813 805713 626000) "EventCorrelation.py" "CreateReferenceTable.txt" "QConnector.py" "QSettings.py" "QLogger.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Data/__pycache__/" (23838 24242 882834 878000) "source.cpython-37.pyc" "datalayer.cpython-37.pyc" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Agents/" (23838 40862 369663 262000) "agent.py" "agent.py~" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/backend-python/templates/" (23838 536 413426 856000) "index.html~" "index.html" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Data/" (23840 56386 81120 350000) "source.pyc" "datastore.py" "source.py" "source.py~" "td.csv" "datalayer.py~" "datastore.py~" "__pycache__/" "datalayer.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Strategies/" (23841 17029 854886 663000) "NotML/" "ML/" "goldendeathcross.py~" "__pycache__/" "strategy.py~" "strategy.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Resources/" (23841 971 857366 965000) "hmm.pdf" "online.org~" "online.org" "prediction of financial time series with hmm's.pdf" "test.py~" "machine learning for sequential data.pdf" "test.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Strategies/NotML/" (23841 17029 854886 613000) "goldendeathcross.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Test/" (23835 45474 333781 789000) "main.py" "templates/" "static/" "main.py~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Test/templates/" (23835 45242 558898 806000) "profile.html~" "profile.html" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Test/static/" (23835 45575 774220 935000) "style.css" "style.css~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MasterU/" (23836 48875 946950 443000) "cogsci.org" "statsandcogsci.org~" "stats.org" "cogsci.org~" "stats.org~" "statsandcogsci.org" "../" "./")
+
+ ("/Users/prathamdesai/EB/notes/" (23827 32371 950284 595000) "utils.org" "test.org~" "questions.org~" "script.org~" "test.org" "script.org" "notuba.org" "UBAproscons.org~" "todo.org~" "todo.org" "questions.org" "UBAproscons.org" "notes.org" "notes.org~" "utils.org~" "../" "./")
+
+ ("/Users/" (23793 22060 90677 730000) "prathamdesai/" "Shared/" ".%cb_defense/" ".localized" "../" "./")
+
+ ("/Users/prathamdesai/EB/uba/" (23815 46859 905431 620000) ".git/" "version.txt" ".github/" "ml-pipeline/" "package-lock.json" ".gitignore" "README.md" "docs/" "ml-app/" "content/" "uba-app/" "ldap-app/" ".DS_Store" "ml-config/" "performance-testing/" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/Models/UBA/" (23806 41661 907520 33000) "notes.org" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/Models/" (23806 41640 730838 122000) "metricone.py" "discreteDistrib.py" "UBA/" "metricone.py~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/Week2/" (23792 33892 456675 884000) "Lectures/" "notes.org" ".DS_Store" "notes.org~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/Week1/Lectures/" (23778 51662 788161 226000) "BRNN.mp4" "DeepRNN.mp4" "Different flavours of RNN's.mp4" "Language model and sequence generation.mp4" "Notation.mp4" "Vanishing gradients.mp4" "Why sequence models.mp4" "Sampling novel sequences.mp4" "Backprop through time.mp4" "LSTM.mp4" "GRU.mp4" "RNN model.mp4" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/Week1/" (23787 19631 859705 557000) "Lectures/" "notes.org" ".DS_Store" "notes.org~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/SequenceModels/" (23785 34787 690115 645000) "Week3/" "Week2/" "Week1/" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MOOC/Coursera/" (23778 51424 864360 489000) "SequenceModels/" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/foobar/L3/" (23804 29873 25861 638000) "doomsday_fuel.py" "doomsday_fuel.py~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/foobar/" (23804 29830 467025 815000) "L1/" "L2/" "L3/" "free_the_bunny_prisoners.py" "free_the_bunny_prisoners.py~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/foobar/L2/" (23804 27794 274891 996000) "please_pass_the_coded_messages.py~" "en_route_salute.py" "en_route_salute.py~" "please_pass_the_coded_messages.py" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/foobar/L1/" (23803 63804 738517 980000) "minion_labour_shifts.py~" "minion_labour_shifts.py" "../" "./")
+
+ ("/Users/prathamdesai/.ssh/" (23801 35799 418039 188000) "known_hosts" "config" "config~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MOOC/ml4finance/" (23796 36564 909678 149000) "notes.org" "notes.org~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/H2LMF/Misc/" (23803 1503 348836 654000) "utils.org" "pass.txt" "logs.org~" "todo.org~" "logs.org" "todo.org" "pass.txt~" "../" "./")
+
+ ("/Users/prathamdesai/EB/Blue-Vision/Data/" (23798 25625 309780 757000) "2019_06_03_network_activity.numbers" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/MOOC/" (23795 64512 329990 195000) "Coursera/" "ml4finance/" "../" "./")
+
+ ("/Users/prathamdesai/.emacs.d/elpa/" (23790 49739 773701 757000) "rainbow-delimiters-20170929.1132/" "s-20180406.808/" "skewer-mode-20180706.1807/" "simple-httpd-20190110.1505/" "beacon-readme.txt" "dash-20190424.1804/" "rainbow-delimiters-readme.txt" "polymode-20190508.1847/" "jupyter-readme.txt" "js2-mode-20190420.2244/" "markdown-mode-20190305.319/" "popup-20160709.1429/" "archives/" "ein-readme.txt" "request-20181129.1138/" "ein-20190520.2116/" "websocket-20190408.152/" "rebecca-theme-20180324.821/" "deferred-20170901.1330/" "dracula-theme-20190107.2016/" ".DS_Store" "auto-complete-20170125.245/" "exec-path-from-shell-20190426.2227/" "beacon-20190104.1931/" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week3/" (23785 34800 529577 322000) "Lectures/" "Code/" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week2/" (23792 33892 456675 884000) "Lectures/" "notes.org" ".DS_Store" "notes.org~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/CML/src/CML/" (23787 20729 305725 2000) "Tensor.h" "optim/" "Tensors/" "nn/" "Dtypes.h" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/CML/src/" (23787 20729 353868 193000) "Makefile" "testCML.cc" "CML/" "testCML" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/CML/" (23787 20056 236136 549000) "src/" ".git/" "README.md" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/si/" (23788 306 244620 586000) "main.cpp" "a.out" "main.cpp~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week1/" (23787 19631 859705 557000) "Lectures/" "notes.org" ".DS_Store" "notes.org~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/" (23785 34787 690115 645000) "Week3/" "Week2/" "Week1/" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/WheresWaldo/" (23779 15028 349432 153000) ".vscode/" ".git/" "WaldoPicRepo/" "Examples/" ".gitignore" "README.md" "Waldo Image Processor/" "Probability_Map/" "Maps/" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week1/Code/" (23779 17140 364764 417000) ".ipynb_checkpoints/" "Building+a+Recurrent+Neural+Network+-+Step+by+Step+-+v3.ipynb" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/EB/uba/ml-app/itp-app/com.ibm.uba.itp/app/" (23779 62044 605093 422000) "wsgi.py" "postconfigs.py" "views.py" "services/" "templates/" "query_limits.py" "static/" "configs_api.py" "utils.py" "__init__.py" "cache.py" "arlib/" "qpylib/" "mllib/" "database.py" "itp_constants.py" "userdata_api.py" "itp_schema.sql" "../" "./")
+
+ ("/Users/prathamdesai/EB/uba/ml-app/itp-app/com.ibm.uba.itp/" (23779 62044 634048 804000) "manifest.json" "src_deps/" ".coveragerc" "tests/" "app/" "run.py" ".pylintrc" "../" "./")
+
+ ("/Users/prathamdesai/EB/uba/ml-app/itp-app/" (23779 62044 577645 546000) "com.ibm.uba.itp/" "../" "./")
+
+ ("/Users/prathamdesai/EB/uba/ml-app/" (23779 62044 643571 727000) "itp-app/" "scripts/" "README.md" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week 1/Code/" (23779 15863 172481 194000) "Building+a+Recurrent+Neural+Network+-+Step+by+Step+-+v3.ipynb" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week 1/Lectures/" (23778 51662 788161 226000) "BRNN.mp4" "DeepRNN.mp4" "Different flavours of RNN's.mp4" "Language model and sequence generation.mp4" "Notation.mp4" "Vanishing gradients.mp4" "Why sequence models.mp4" "Sampling novel sequences.mp4" "Backprop through time.mp4" "LSTM.mp4" "GRU.mp4" "RNN model.mp4" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/SequenceModels/Week 1/" (23778 51631 543101 227000) "Lectures/" "Code/" "notes.org" ".DS_Store" "notes.org~" "../" "./")
+
+ ("/Users/prathamdesai/Pratham/Coursera/" (23778 51424 864360 489000) "SequenceModels/" ".DS_Store" "../" "./")
+
+ ("/Users/prathamdesai/Downloads/" (23778 51271 28025 655000) "enrollmentProfile-3.mobileconfig" "Emacs-26.2-universal.dmg" "CA0G6422.ID" "enrollmentProfile-2.mobileconfig" "2019-02-UBA-Singapore.pptx" "enrollmentProfile.mobileconfig" "Cisco_WebEx_Add-On.dmg" "Building+a+Recurrent+Neural+Network+-+Step+by+Step+-+v3.ipynb" "QRadarCE7_3_1.GA.iso" "2019-05-17-data_export.csv" "Install Spotify.app/" "SpotifyInstaller.zip" "Architecture and Interfaces.pdf" "2019-05-17-data_export.csv.zip" "Firefox 66.0.5.dmg" ".localized" "2019-05-UBA-ML.pptx" ".DS_Store" "preprint.pdf" "BoxToolsInstaller.dmg" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
