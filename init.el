@@ -8,10 +8,11 @@
 (add-to-list 'package-archives '("org" . "http://orgmode.org/elpa/"))
 (add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
 
-;; neotree
-(add-to-list 'load-path "/elpa/neotree-20181121.2026")
-(require 'neotree)
-(global-set-key [f8] 'neotree-toggle)
+;; use package req
+(unless (package-installed-p 'use-package)
+  (package-refresh-contents)
+  (package-install 'use-package))
+
 
 (exec-path-from-shell-initialize)
 
@@ -26,19 +27,43 @@
 
 (setq visible-bell nil)
 
-;;all the icons
+;; disable alert noises
+(setq ring-bell-function 'ignore)
+
+;; ;; centaur tabs
+;; (use-package centaur-tabs
+;;   :demand
+;;   :config
+;;   (centaur-tabs-mode t)
+;;   :bind
+;;   ("C-<prior>" . centaur-tabs-backward)
+;;   ("C-<next>" . centaur-tabs-forward))
+;; (setq centaur-tabs-set-icons t)
+
+;; neotree
+(add-to-list 'load-path "/elpa/neotree-20181121.2026")
+(require 'neotree)
+(global-set-key [f8] 'neotree-toggle)
+
+;; all the icons
 (require 'all-the-icons)
-(insert (all-the-icons-icon-for-file "foo.py"))
-(insert (all-the-icons-icon-for-file "foo.js"))
 
 ;;; open up the todo list for the day
 (setq initial-buffer-choice "~/Pratham/today.org")
 
+;; ipython notebooks
 (require 'ein)
 
 ;; rainbow delims
 (require 'rainbow-delimiters)
 (add-hook 'prog-mode-hook #'rainbow-delimiters-mode)
+
+;; blink matching parens for 0.5 seconds
+(setq blink-matching-paren t)
+(setq blink-matching-delay 0.5)
+
+;; undo limits : 10000 bytes
+(setq undo-limit 10000)
 
 ;; ido mode
 (require 'ido)
@@ -56,7 +81,7 @@
 (setq doom-themes-enabled-bold t
       doom-themes-enabled-italic t)
 
-(load-theme 'doom-city-lights t)
+(load-theme 'doom-peacock t)
 (doom-themes-org-config)
 (doom-themes-neotree-config)
 
@@ -74,7 +99,14 @@
 
 ;; line numbers
 (global-linum-mode t)
-(set-face-foreground 'linum "#77ed6d")
+(set-face-foreground 'linum "#ff5733")
+
+;; elpy mode
+(use-package elpy
+	     :ensure t
+	     :init
+	     (elpy-enable))
+
 
 ;; beacon mode
 (beacon-mode 1)
@@ -91,7 +123,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (all-the-icons neotree doom-themes material-theme exec-path-from-shell ein ## rainbow-delimiters rebecca-theme dracula-theme beacon))))
+    (centaur-tabs elpy use-package all-the-icons neotree doom-themes material-theme exec-path-from-shell ein ## rainbow-delimiters rebecca-theme dracula-theme beacon))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
